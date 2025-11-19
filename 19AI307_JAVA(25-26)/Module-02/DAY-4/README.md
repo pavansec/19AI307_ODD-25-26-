@@ -88,6 +88,3 @@ Thus, the Java program using a parameterized constructor to display book details
 
 
 
-
-## RESULT:
-
