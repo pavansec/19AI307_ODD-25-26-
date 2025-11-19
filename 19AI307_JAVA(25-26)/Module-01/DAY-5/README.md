@@ -1,4 +1,5 @@
-<img width="829" height="254" alt="image" src="https://github.com/user-attachments/assets/0378a14e-f0a3-46b4-8bfb-d6dc85973c3d" />## Ex.No:1(E) STRINGS AND MATH FUNCTION
+## Ex.No:4 FINDING THE LONGEST WORD IN A SENTENCE
+
 ### QUESTION:
 Write a Java program to read a sentence and determine the longest word present in it.
 
@@ -68,7 +69,7 @@ public class Main{
 ---
 
 ### OUTPUT:
-<img width="829" height="254" alt="image" src="https://github.com/user-attachments/assets/93fe4952-69e1-4607-aba8-4766689a0ecc" />
+<img width="829" height="254" alt="image" src="https://github.com/user-attachments/assets/2048dfc1-020e-4e9b-8afd-0a119503533b" />
 
 
 ---
